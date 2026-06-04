@@ -1,0 +1,8 @@
+// Bootstrap 5 Sass customization exercise.
+// In a real npm setup, import Bootstrap after overriding variables.
+
+$primary: #0755c8;
+$border-radius: 0.35rem;
+$border-radius-pill: 50rem;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
